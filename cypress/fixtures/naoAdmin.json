@@ -1,0 +1,6 @@
+{
+  "nome": "Usuario Nao Admin",
+  "email": "usuarioNaoAdmin@gmail.com",
+  "senha": "123456",
+  "ehAdm": false
+}
